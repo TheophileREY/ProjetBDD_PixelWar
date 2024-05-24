@@ -4,7 +4,7 @@
 ![1](ModeleEntiteRelation.png)
 
 ## To Do 
-Faute de temps les règles suivantes n'ont pas été implémentée/ ou ne elles ne fonctionnaient pas :
+Faute de temps les règles suivantes n'ont pas été implémentée/ ou elles ne fonctionnaient pas :
 - L'utilisateur ne peut changer la couleur d'un pixel que toute les 15 secondes
 - Après modification, un pixel est protégé pendant 30 secondes
 - Réinitialisation du mdp de l'utilisateur
