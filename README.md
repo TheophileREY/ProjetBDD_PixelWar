@@ -1,9 +1,14 @@
 # ProjetBDD_PixelWar
 
 ## Modèle de la base de donnée :
-### Modèle Entité-Relation :
 ![1](ModeleEntiteRelation.png)
-### Modèle Relationnel :
+
+## To Do 
+Faute de temps les règles suivantes n'ont pas été implémentée/ ou ne elles ne fonctionnaient pas :
+- L'utilisateur ne peut changer la couleur d'un pixel que toute les 15 secondes
+- Après modification, un pixel est protégé pendant 30 secondes
+- Réinitialisation du mdp de l'utilisateur
+- Mail de confirmation d'inscription
 
 ## Requete SQL :
 La base de donnée n'est pas sensible a la casse
